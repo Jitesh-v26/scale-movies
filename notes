@@ -1,0 +1,1 @@
+useEffect:- can be ngOnInit, ngOnChanges, and a BehaviourSubject(triggering when a variable is mutated).
